@@ -43,7 +43,7 @@ The MATLAB framework integrates two main components:
      ```
      
   2. **Enable plotting (optional)**  
-   - Some scripts includes plotting sections that are commented out.  
+   - Some scripts include plotting sections that are commented out.  
    - Uncomment to visualize intermediate results.
 
 ---
