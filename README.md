@@ -2,7 +2,7 @@
 
 This project was developed during the 2025 academic year for the course *Information Theory (ECE_TEL851)* at the **Department of Electrical and Computer Engineering, University of the Peloponnese**.  
 
-It builds on earlier work completed in *Pattern Recognition (ECE_TEL830)*, available in the [EPL Forecasting Repository](https://github.com/JohnZiangas/Simulation-for-Q-V-Band-Excess-Path-Loss-Forecasting-in-LEO-Satellite-Links-Using-Deep-Learning), where excess path loss (EPL) forecasting using deep learning (LSTM) was first introduced. This repository extends that foundation with a comprehensive **adaptive link budget analysis** for Q/V-band LEO satellite communications.
+It builds on earlier work completed in *Pattern Recognition (ECE_TEL830)*, available in the [EPL Forecasting Repository](https://github.com/JohnZiangas/Simulation-for-Q-V-Band-Excess-Path-Loss-Forecasting-in-LEO-Satellite-Links-Using-Deep-Learning), where excess path loss (EPL) forecasting using deep learning (LSTM) was first introduced. This repository extends that foundation with a comprehensive **adaptive link budget analysis** for Q-band LEO satellite communications.
 
 
 The MATLAB framework integrates two main components:
@@ -50,4 +50,4 @@ The MATLAB framework integrates two main components:
 
 ## Citation
 
-This code is open for use and modification in other projects. If it contributes to your work, I would greatly appreciate a citation, either to the associated paper (link to be added) or directly to this GitHub repository. :)
+This code is open for use and modification in other projects. If it contributes to your work, I would greatly appreciate a citation, either to the associated paper ([ResearchGate](https://www.researchgate.net/publication/395535793_Link_Budget_Modeling_for_Q-Band_LEO_Satellite_Communications_with_Adaptive_Coding_and_Modulation)) or directly to this GitHub repository. :)
